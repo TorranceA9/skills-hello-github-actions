@@ -1,4 +1,4 @@
-name: Welcome.yml
+name: welcome.yml
 on:
   pull_request:
     types: [opened]
