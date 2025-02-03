@@ -1,4 +1,4 @@
-name: Post welcome comment
+name: Welcome.yml
 on:
   pull_request:
     types: [opened]
